@@ -15,6 +15,6 @@ Este script simplifica o processo de geração de certificados, tornando-o mais 
 - 'certificado_padrao.jpg': Modelo padrão de certificado.
 - 'tahomabd.ttf', 'tahoma.ttf': Fontes utilizadas no certificado.
 
-Co-autor: <Seu Nome ou Seu Alias>
+Co-autor: <Vinicius Emidio>
 
-# [Tarefa/Issue #]
+
